@@ -3,8 +3,8 @@
  
  Using this database from Keggle: https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database
  
- This project involves solving a mistery murder case. 
- This is a project to practice my SQL skills. I've found that this type of project is a great way to practice and understand better how to get information using SQL.
+<p><strong> This project involves solving a mistery murder case. 
+ This is a project to practice my SQL skills. I've found that this type of project is a great way to practice and understand better how to get information using SQL.</strong></p>
 
  "There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
